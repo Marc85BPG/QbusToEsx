@@ -1,5 +1,5 @@
-# QbusToEsx Qbus Scriptleri ESX e Çevirme, Durmaksızın Güncell.
-# Discord : www.discord.gg/mdtyazilim
+# Qbus-To-Esx Qbus and ESX, newest Update.
+# Go to Discord : www.discord.gg/mdtyazilim
 --------------------------------------------------------------------------------------------------
 Qbus Temeli Ve ESX temeli.
  ```lua
